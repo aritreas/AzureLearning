@@ -1,0 +1,2 @@
+C:\Users\soricos\Documents\Visual Studio 2013\Projects\Task\AzureLearningTask\AzureLearningTask\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\soricos\Documents\Visual Studio 2013\Projects\Task\AzureLearningTask\AzureLearningTask\bin\Debug\ServiceDefinition.csdef
